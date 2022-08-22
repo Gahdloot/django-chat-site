@@ -1,0 +1,1 @@
+This is a project i plan to use 3 hours at max to finish, id update you as i go
