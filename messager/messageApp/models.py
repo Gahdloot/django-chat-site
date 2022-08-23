@@ -28,4 +28,4 @@ class Draft(models.Model):
         ordering = ['-created']
 
     def __str__(self):
-        return self.content[0:25]
+        return self.header
